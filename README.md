@@ -78,11 +78,25 @@ The analysis focused on four main areas:
 
 ## Dashboard
 
-The final Power BI report contains three management-focused pages:
+The final Power BI report contains three management-focused pages.
 
-1. **Operations Overview** — headline operational KPIs and management priorities.
-2. **Billing Exceptions** — exception drivers, financial impact and unresolved backlog.
-3. **Service Order Performance** — unsuccessful outcomes, SLA performance, overdue work and execution issues.
+### 1. Operations Overview
+
+Provides a consolidated view of headline operational KPIs, billing exception performance, service-order performance and management priorities.
+
+![Operations Overview](screenshots/01-operations-overview.png)
+
+### 2. Billing Exceptions
+
+Examines billing workload, realised financial impact, recurring issue drivers, resolution performance and unresolved ageing.
+
+![Billing Exceptions](screenshots/02-billing-exceptions.png)
+
+### 3. Service Order Performance
+
+Examines unsuccessful service-order outcomes, SLA performance, overdue open work and reasons for non-completion.
+
+![Service Order Performance](screenshots/03-service-order-performance.png)
 
 ## Key Findings
 
