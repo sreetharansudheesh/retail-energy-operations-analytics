@@ -4,6 +4,10 @@ A Power BI portfolio project analysing billing exceptions and service-order perf
 
 The project uses a **synthetic six-month dataset** containing **1,573 billing exceptions** and **1,174 service orders**. The objective was to identify operational workload drivers, financial impact, ageing issues, unsuccessful service-order outcomes, SLA performance and overdue backlog, then translate those findings into practical management actions.
 
+## Case Study
+
+[View the full PDF case study](case-study/Retail_Energy_Operations_Case_Study.pdf)
+
 ## Business Problem
 
 Retail energy operations teams manage large volumes of billing exceptions and field service orders across customers, distributors and metering providers.
