@@ -128,10 +128,14 @@ DAX measures were developed for metrics including exception volumes, financial i
 
 ## Project Status
 
-**Power BI report complete.**
+**Power BI report and portfolio case study complete.**
 
-Planned portfolio additions include:
+Current repository includes:
 
+- Three-page Power BI dashboard
 - Dashboard screenshots
 - PDF case study
+
+Planned addition:
+
 - Project-specific SQL analysis
