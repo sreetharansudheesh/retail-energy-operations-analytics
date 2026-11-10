@@ -135,7 +135,3 @@ Current repository includes:
 - Three-page Power BI dashboard
 - Dashboard screenshots
 - PDF case study
-
-Planned addition:
-
-- Project-specific SQL analysis
